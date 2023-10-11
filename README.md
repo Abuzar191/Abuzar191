@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abuzar191
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate with a Python Masters
+- 💞️ I’m looking to collaborate with Python Masters
 - 📫 You can reach me through email
 
 <!---
